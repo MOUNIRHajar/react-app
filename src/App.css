@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  margin: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+li:hover {
+  background-color: #e0e0e0;
+}
+
+.quiz-finished {
+  color: #4caf50;
+  font-size: 20px;
+  font-weight: bold;
+}
